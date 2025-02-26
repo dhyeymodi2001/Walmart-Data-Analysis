@@ -59,12 +59,15 @@ This project is an end-to-end data analysis of Walmart sales data. It involves d
 
 ## Project Structure
 ```plaintext
-|-- data/                     # Raw and processed data
-|-- sql_queries/              # SQL scripts
-|-- notebooks/                # Jupyter notebooks
-|-- README.md                 # Project documentation
-|-- requirements.txt          # Python dependencies
-|-- main.py                   # Main data processing script
+|-- Walmart_raw_data.csv              # Raw and processed data
+|-- walmart_sql_problems.sql          # SQL scripts  
+|-- Walmart.pbix                      # PowerBI Dashboard  
+|-- project.ipynb                     # Jupyter notebooks
+|-- README.md                         # Project documentation
+|-- requirements.txt                  # Python dependencies
+|-- main.py                           # Main data processing script
+|-- Walmart Business Problems.pdf     # Buisness Problems
+|-- walmart_clean_data.csv            # Cleaned data
 ```
 
 ## Key Insights
